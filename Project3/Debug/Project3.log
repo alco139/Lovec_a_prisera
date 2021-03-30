@@ -1,0 +1,23 @@
+﻿  Zadanie2final.c
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(43): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(48): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(38): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(39): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(60): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(65): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(55): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(56): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(74): warning C4244: inicializování: double se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(85): warning C4244: funkce: time_t se převádí na unsigned int; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(88): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(89): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(94): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(95): warning C4244: =: int se převádí na float; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(101): warning C4020: print_arena: moc velký počet skutečných parametrů
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(134): warning C4020: print_arena: moc velký počet skutečných parametrů
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(145): warning C4029: Deklarovaný seznam formálních parametrů se liší od definice.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(169): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(170): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(177): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+d:\programy\2.semester c\lovec a prisera\project3\zadanie2final.c(178): warning C4244: =: float se převádí na int; může dojít ke ztrátě dat.
+  Project3.vcxproj -> D:\Programy\2.semester C\Lovec a prisera\Debug\Project3.exe
